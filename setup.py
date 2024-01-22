@@ -47,7 +47,7 @@ setup(
         "packaging>=20.0",
         "psutil",
         "pyyaml",
-        "torch>=1.13.0",
+        "torch>=1.12.0",
         "transformers",
         "tqdm",
         "accelerate>=0.21.0",
